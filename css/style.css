@@ -1,0 +1,90 @@
+
+/* style for footer */
+
+.footer {
+    /* position: fixed; */
+    /* left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red; */
+    /* color: black;
+    text-align: center; */
+ }
+
+
+ /* style for citiesDiv */
+
+ /* .card
+ {
+     display: flex;
+     justify-content: center;
+     background-color: rgb(98, 196, 253);
+    width: 300px;
+    color: white;
+    
+  } */
+
+  .card result
+  {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(98, 196, 253);
+   width: 300px;
+   color: white;
+  }
+
+  
+
+  
+/* 
+  .carousel
+  {
+      
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    background-color: yellowgreen;
+  } */
+
+  .jumbotron {
+    
+   color: white;
+    background-image: url(/images/html.jpeg);
+    height: 100%;
+  }
+
+  #scard
+  {
+    background-image: url(/images/html.jpeg);
+    
+    color: white;
+  }
+
+  #searchcard
+  {
+    text-align: center;
+  }
+
+  #jum
+  {
+    color: white;
+    background-image: url(/images/html.jpeg);
+    background-size: cover;
+    height: 100%;
+  }
+
+  #namesinpara
+  {
+    font-weight:900;
+    font-size:1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .loccontainer
+  {
+    height: 67vh;
+  }
+
+  body{
+  
+  }
